@@ -1,4 +1,4 @@
-FROM ubuntu:Latest
+FROM ubuntu:latest
 
 MAINTAINER Dilip Pramanik version: 0.1
 
